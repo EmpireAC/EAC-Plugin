@@ -3,7 +3,7 @@ Plugin Minecraft de EmpireAC (nom : EAC-Plugin)
 
 Ceci est la verison beta0.1, les futurs versions ne seronts pas inclus ici.
 
-Elle seront inclus sur le projet EmpireAC/EACPlugin
+Elle seront inclus sur le projet EmpireAC/EAC-Suite
 
 ### Infos
 
